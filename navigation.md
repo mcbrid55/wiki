@@ -3,4 +3,4 @@
 [Contact](contact.md)
 [Guestbook](guestbook.md)
 
-[gimmick:theme](readable)
+[gimmick:theme](flatly)
